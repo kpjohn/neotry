@@ -1,4 +1,0 @@
-BusProc_ID,BusProcName,BusProcDescr,BusProcProductOwnerNUID
-1,ePIMS/PDW Bridge Feed,ePims/PDW RX Transactions,W401367
-2,ePIMS/PDW POS Feed,ePIMS/PDW PointOfSaleTransactions,W401367
-3,ePIMS/PDW PERC Extract Feed,ePIMS/PDW PERC End of Day Extract,W401367
