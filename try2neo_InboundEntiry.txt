@@ -1,4 +1,0 @@
-InboundEntity_ID,InboundEntity_Description,ExternalSourceSystem,PCI,PHI,PII,DataEncryptionType,TotalSizeEstimate_GB,TotalGrowthRateGB_Month,DataRetentionTimeYears,SourceSystemDataStewardOwner,DataTransmissionType,IngestFrequency
-1,"ePIMS/PDW Bridge Feed","ePIMS/PDW","N","Y","Y","SCP",604.09375,15.603,"Full","Pharmacy","SCP","Daily"
-2,"ePIMS/PDW POS Feed","ePIMS/PDW","N","Y","Y","SCP",1792.46875,40,"Full","Pharmacy","SCP","Daily"
-3,"ePIMS/PDW PERC Extract Feed","ePIMS/PDW","N","Y","Y","SCP",466.765625,14.13,"Full","Pharmacy","SCP","Daily"
