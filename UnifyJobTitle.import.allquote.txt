@@ -1,6 +1,0 @@
-"ID"|"UnifyJobTitle"
-"1"|"ABC"
-"2"|"ABG Touch File"
-"3"|"ACCESSION_LAB"
-"4"|"BERGEN DAILY PROD"
-"5"|"BMI"
